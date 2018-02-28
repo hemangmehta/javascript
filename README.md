@@ -26,6 +26,7 @@
   1. [Type Casting & Coercion](#type-casting--coercion)
   1. [Naming Conventions](#naming-conventions)
   1. [Events](#events)
+  1. [Git](#git)
 
 ## References
 
