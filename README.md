@@ -26,7 +26,6 @@
   1. [Type Casting & Coercion](#type-casting--coercion)
   1. [Naming Conventions](#naming-conventions)
   1. [Events](#events)
-  1. [Git](#git)
 
 ## References
 
@@ -2693,9 +2692,9 @@ function add(num1, num2) {
     fix(authentication): Some commit message that is not in past tense
     ```
 - Branching
-    - chore - ch : For something totally new
-    - bug - bg : For bug fix
-    - feature - ft : For a new feature for an existing functionality
+    - feature - ft : For something totally new
+    - chore - ch : For a new routine task for an existing feature/functionality
+    - bug - bg : For bug fix   
     - Syntax: `<ch|bg|ft>-<issue_description>-<issue_number>`
     - Example: `ch-add-slack-alerts-190`
 
