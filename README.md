@@ -26,6 +26,9 @@
   1. [Type Casting & Coercion](#type-casting--coercion)
   1. [Naming Conventions](#naming-conventions)
   1. [Events](#events)
+  1. [Error Handling](#error-handling)
+  1. [JS Doc](#js-doc)
+  1. [Test Cases](#test-cases)
 
 ## References
 
