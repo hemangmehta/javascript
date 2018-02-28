@@ -2651,4 +2651,34 @@
 
   **[⬆ back to top](#table-of-contents)**
 
+# Error Handling
+- All promise returning functions should have a `.catch()` block
+- Function body of all `async` functions should be wrapped in `try-catch` block
+- All the catched errors should be handled. Like, really handled not just console.log
+
+# JS Doc
+- For each function that you add, you should also add JS doc for each of those
+- Specify purpose of the function
+- Parameters (if any)
+- Return type
+- For each function that you modify, make sure you make appropriate changes to doc (if relevant)
+- Example
+
+```javascript
+/**
+Calculates sum of two numbers
+@param {number} num1 - Number1
+@param {number} num2 - Number2
+@returns {number} addition of num1 & num2
+*/
+function add(num1, num2) {
+ return num1 + num2;
+}
+```
+
+# Test cases
+- For each function that you add, you should add unit tests.
+- For each function that you modify.change, make sure it passes all the respective test cases
+- If, while changing/modifying a function the business logic changes, make appropriate changes in test cases
+
 # };
