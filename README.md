@@ -1,7 +1,5 @@
 # JavaScript Developer Coding Guideline() {
 
-*This is Novo's approach to JavaScript*
-
 ## Table of Contents
 
   1. [References](#references)
