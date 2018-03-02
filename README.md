@@ -1,4 +1,4 @@
-# Novo JavaScript Style Guide() {
+# JavaScript Developer Coding Guideline() {
 
 *This is Novo's approach to JavaScript*
 
